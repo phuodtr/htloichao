@@ -1,0 +1,13 @@
+C:\Users\DELL\Documents\htloichao\htloichao\tinhsongaytt\bin\Debug\netcoreapp3.1\tinhsongaytt.exe
+C:\Users\DELL\Documents\htloichao\htloichao\tinhsongaytt\bin\Debug\netcoreapp3.1\tinhsongaytt.deps.json
+C:\Users\DELL\Documents\htloichao\htloichao\tinhsongaytt\bin\Debug\netcoreapp3.1\tinhsongaytt.runtimeconfig.json
+C:\Users\DELL\Documents\htloichao\htloichao\tinhsongaytt\bin\Debug\netcoreapp3.1\tinhsongaytt.runtimeconfig.dev.json
+C:\Users\DELL\Documents\htloichao\htloichao\tinhsongaytt\bin\Debug\netcoreapp3.1\tinhsongaytt.dll
+C:\Users\DELL\Documents\htloichao\htloichao\tinhsongaytt\bin\Debug\netcoreapp3.1\tinhsongaytt.pdb
+C:\Users\DELL\Documents\htloichao\htloichao\tinhsongaytt\obj\Debug\netcoreapp3.1\tinhsongaytt.csprojAssemblyReference.cache
+C:\Users\DELL\Documents\htloichao\htloichao\tinhsongaytt\obj\Debug\netcoreapp3.1\tinhsongaytt.AssemblyInfoInputs.cache
+C:\Users\DELL\Documents\htloichao\htloichao\tinhsongaytt\obj\Debug\netcoreapp3.1\tinhsongaytt.AssemblyInfo.cs
+C:\Users\DELL\Documents\htloichao\htloichao\tinhsongaytt\obj\Debug\netcoreapp3.1\tinhsongaytt.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\htloichao\htloichao\tinhsongaytt\obj\Debug\netcoreapp3.1\tinhsongaytt.dll
+C:\Users\DELL\Documents\htloichao\htloichao\tinhsongaytt\obj\Debug\netcoreapp3.1\tinhsongaytt.pdb
+C:\Users\DELL\Documents\htloichao\htloichao\tinhsongaytt\obj\Debug\netcoreapp3.1\tinhsongaytt.genruntimeconfig.cache
