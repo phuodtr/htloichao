@@ -1,0 +1,13 @@
+C:\Users\DELL\Documents\htloichao\htloichao\toantuu\bin\Debug\netcoreapp3.1\toantuu.exe
+C:\Users\DELL\Documents\htloichao\htloichao\toantuu\bin\Debug\netcoreapp3.1\toantuu.deps.json
+C:\Users\DELL\Documents\htloichao\htloichao\toantuu\bin\Debug\netcoreapp3.1\toantuu.runtimeconfig.json
+C:\Users\DELL\Documents\htloichao\htloichao\toantuu\bin\Debug\netcoreapp3.1\toantuu.runtimeconfig.dev.json
+C:\Users\DELL\Documents\htloichao\htloichao\toantuu\bin\Debug\netcoreapp3.1\toantuu.dll
+C:\Users\DELL\Documents\htloichao\htloichao\toantuu\bin\Debug\netcoreapp3.1\toantuu.pdb
+C:\Users\DELL\Documents\htloichao\htloichao\toantuu\obj\Debug\netcoreapp3.1\toantuu.csprojAssemblyReference.cache
+C:\Users\DELL\Documents\htloichao\htloichao\toantuu\obj\Debug\netcoreapp3.1\toantuu.AssemblyInfoInputs.cache
+C:\Users\DELL\Documents\htloichao\htloichao\toantuu\obj\Debug\netcoreapp3.1\toantuu.AssemblyInfo.cs
+C:\Users\DELL\Documents\htloichao\htloichao\toantuu\obj\Debug\netcoreapp3.1\toantuu.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\htloichao\htloichao\toantuu\obj\Debug\netcoreapp3.1\toantuu.dll
+C:\Users\DELL\Documents\htloichao\htloichao\toantuu\obj\Debug\netcoreapp3.1\toantuu.pdb
+C:\Users\DELL\Documents\htloichao\htloichao\toantuu\obj\Debug\netcoreapp3.1\toantuu.genruntimeconfig.cache
