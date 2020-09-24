@@ -1,0 +1,13 @@
+C:\Users\DELL\Documents\htloichao\htloichao\student_management_system\bin\Debug\netcoreapp3.1\student_management_system.exe
+C:\Users\DELL\Documents\htloichao\htloichao\student_management_system\bin\Debug\netcoreapp3.1\student_management_system.deps.json
+C:\Users\DELL\Documents\htloichao\htloichao\student_management_system\bin\Debug\netcoreapp3.1\student_management_system.runtimeconfig.json
+C:\Users\DELL\Documents\htloichao\htloichao\student_management_system\bin\Debug\netcoreapp3.1\student_management_system.runtimeconfig.dev.json
+C:\Users\DELL\Documents\htloichao\htloichao\student_management_system\bin\Debug\netcoreapp3.1\student_management_system.dll
+C:\Users\DELL\Documents\htloichao\htloichao\student_management_system\bin\Debug\netcoreapp3.1\student_management_system.pdb
+C:\Users\DELL\Documents\htloichao\htloichao\student_management_system\obj\Debug\netcoreapp3.1\student_management_system.csprojAssemblyReference.cache
+C:\Users\DELL\Documents\htloichao\htloichao\student_management_system\obj\Debug\netcoreapp3.1\student_management_system.AssemblyInfoInputs.cache
+C:\Users\DELL\Documents\htloichao\htloichao\student_management_system\obj\Debug\netcoreapp3.1\student_management_system.AssemblyInfo.cs
+C:\Users\DELL\Documents\htloichao\htloichao\student_management_system\obj\Debug\netcoreapp3.1\student_management_system.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\htloichao\htloichao\student_management_system\obj\Debug\netcoreapp3.1\student_management_system.dll
+C:\Users\DELL\Documents\htloichao\htloichao\student_management_system\obj\Debug\netcoreapp3.1\student_management_system.pdb
+C:\Users\DELL\Documents\htloichao\htloichao\student_management_system\obj\Debug\netcoreapp3.1\student_management_system.genruntimeconfig.cache
