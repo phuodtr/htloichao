@@ -1,0 +1,13 @@
+C:\Users\DELL\Documents\htloichao\htloichao\SortedListtt\bin\Debug\netcoreapp3.1\SortedListtt.exe
+C:\Users\DELL\Documents\htloichao\htloichao\SortedListtt\bin\Debug\netcoreapp3.1\SortedListtt.deps.json
+C:\Users\DELL\Documents\htloichao\htloichao\SortedListtt\bin\Debug\netcoreapp3.1\SortedListtt.runtimeconfig.json
+C:\Users\DELL\Documents\htloichao\htloichao\SortedListtt\bin\Debug\netcoreapp3.1\SortedListtt.runtimeconfig.dev.json
+C:\Users\DELL\Documents\htloichao\htloichao\SortedListtt\bin\Debug\netcoreapp3.1\SortedListtt.dll
+C:\Users\DELL\Documents\htloichao\htloichao\SortedListtt\bin\Debug\netcoreapp3.1\SortedListtt.pdb
+C:\Users\DELL\Documents\htloichao\htloichao\SortedListtt\obj\Debug\netcoreapp3.1\SortedListtt.csprojAssemblyReference.cache
+C:\Users\DELL\Documents\htloichao\htloichao\SortedListtt\obj\Debug\netcoreapp3.1\SortedListtt.AssemblyInfoInputs.cache
+C:\Users\DELL\Documents\htloichao\htloichao\SortedListtt\obj\Debug\netcoreapp3.1\SortedListtt.AssemblyInfo.cs
+C:\Users\DELL\Documents\htloichao\htloichao\SortedListtt\obj\Debug\netcoreapp3.1\SortedListtt.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\htloichao\htloichao\SortedListtt\obj\Debug\netcoreapp3.1\SortedListtt.dll
+C:\Users\DELL\Documents\htloichao\htloichao\SortedListtt\obj\Debug\netcoreapp3.1\SortedListtt.pdb
+C:\Users\DELL\Documents\htloichao\htloichao\SortedListtt\obj\Debug\netcoreapp3.1\SortedListtt.genruntimeconfig.cache
