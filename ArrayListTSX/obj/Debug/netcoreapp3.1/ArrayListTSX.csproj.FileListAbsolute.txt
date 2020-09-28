@@ -1,0 +1,13 @@
+C:\Users\DELL\Documents\htloichao\htloichao\ArrayListTSX\bin\Debug\netcoreapp3.1\ArrayListTSX.exe
+C:\Users\DELL\Documents\htloichao\htloichao\ArrayListTSX\bin\Debug\netcoreapp3.1\ArrayListTSX.deps.json
+C:\Users\DELL\Documents\htloichao\htloichao\ArrayListTSX\bin\Debug\netcoreapp3.1\ArrayListTSX.runtimeconfig.json
+C:\Users\DELL\Documents\htloichao\htloichao\ArrayListTSX\bin\Debug\netcoreapp3.1\ArrayListTSX.runtimeconfig.dev.json
+C:\Users\DELL\Documents\htloichao\htloichao\ArrayListTSX\bin\Debug\netcoreapp3.1\ArrayListTSX.dll
+C:\Users\DELL\Documents\htloichao\htloichao\ArrayListTSX\bin\Debug\netcoreapp3.1\ArrayListTSX.pdb
+C:\Users\DELL\Documents\htloichao\htloichao\ArrayListTSX\obj\Debug\netcoreapp3.1\ArrayListTSX.csprojAssemblyReference.cache
+C:\Users\DELL\Documents\htloichao\htloichao\ArrayListTSX\obj\Debug\netcoreapp3.1\ArrayListTSX.AssemblyInfoInputs.cache
+C:\Users\DELL\Documents\htloichao\htloichao\ArrayListTSX\obj\Debug\netcoreapp3.1\ArrayListTSX.AssemblyInfo.cs
+C:\Users\DELL\Documents\htloichao\htloichao\ArrayListTSX\obj\Debug\netcoreapp3.1\ArrayListTSX.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\htloichao\htloichao\ArrayListTSX\obj\Debug\netcoreapp3.1\ArrayListTSX.dll
+C:\Users\DELL\Documents\htloichao\htloichao\ArrayListTSX\obj\Debug\netcoreapp3.1\ArrayListTSX.pdb
+C:\Users\DELL\Documents\htloichao\htloichao\ArrayListTSX\obj\Debug\netcoreapp3.1\ArrayListTSX.genruntimeconfig.cache
