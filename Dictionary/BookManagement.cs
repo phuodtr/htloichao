@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 namespace Dictionary
 {
-    class Program
+    class BookManagement
     {
         static void Main(string[] args)
         {
@@ -43,6 +43,21 @@ namespace Dictionary
                     book.Name + " - " + book.Author);
             }
             Console.WriteLine();
+        }
+
+        public override bool Equals(object obj)
+        {
+            return base.Equals(obj);
+        }
+
+        public override int GetHashCode()
+        {
+            return base.GetHashCode();
+        }
+
+        public override string ToString()
+        {
+            return base.ToString();
         }
     }
 }
