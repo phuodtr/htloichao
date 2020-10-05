@@ -1,0 +1,13 @@
+C:\Users\DELL\Documents\htloichao\htloichao\thilai\bin\Debug\netcoreapp3.1\thilai.exe
+C:\Users\DELL\Documents\htloichao\htloichao\thilai\bin\Debug\netcoreapp3.1\thilai.deps.json
+C:\Users\DELL\Documents\htloichao\htloichao\thilai\bin\Debug\netcoreapp3.1\thilai.runtimeconfig.json
+C:\Users\DELL\Documents\htloichao\htloichao\thilai\bin\Debug\netcoreapp3.1\thilai.runtimeconfig.dev.json
+C:\Users\DELL\Documents\htloichao\htloichao\thilai\bin\Debug\netcoreapp3.1\thilai.dll
+C:\Users\DELL\Documents\htloichao\htloichao\thilai\bin\Debug\netcoreapp3.1\thilai.pdb
+C:\Users\DELL\Documents\htloichao\htloichao\thilai\obj\Debug\netcoreapp3.1\thilai.csprojAssemblyReference.cache
+C:\Users\DELL\Documents\htloichao\htloichao\thilai\obj\Debug\netcoreapp3.1\thilai.AssemblyInfoInputs.cache
+C:\Users\DELL\Documents\htloichao\htloichao\thilai\obj\Debug\netcoreapp3.1\thilai.AssemblyInfo.cs
+C:\Users\DELL\Documents\htloichao\htloichao\thilai\obj\Debug\netcoreapp3.1\thilai.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\htloichao\htloichao\thilai\obj\Debug\netcoreapp3.1\thilai.dll
+C:\Users\DELL\Documents\htloichao\htloichao\thilai\obj\Debug\netcoreapp3.1\thilai.pdb
+C:\Users\DELL\Documents\htloichao\htloichao\thilai\obj\Debug\netcoreapp3.1\thilai.genruntimeconfig.cache
